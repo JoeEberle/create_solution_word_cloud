@@ -38,4 +38,4 @@ To get started with the **Create Solution Word Cloud** solution repository, foll
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](create_solution_word_cloud.png)  <br>
+    ## Deliverables or Figures![additional_image](create_solution_word_cloud.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>

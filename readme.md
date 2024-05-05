@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Create Solution Word Cloud - A utility to create a word cloud for every solution.
 A utility to create a word cloud for every solution.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Create Solution Word Cloud** - an example for your pro
 A utility to create a word cloud for every solution.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  

@@ -6,9 +6,7 @@ A utility to create a word cloud for every solution.
 
 ![Image image_filename](code.png)
 
-Welcome to the solution **Create Solution Word Cloud** - an example for your projects
 
-A utility to create a word cloud for every solution.
 
 ![Image image_filename](sample.png)
 

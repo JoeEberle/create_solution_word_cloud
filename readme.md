@@ -37,11 +37,8 @@ To get started with the **Create Solution Word Cloud** solution repository, foll
  ![additional_image](create_solution_word_cloud.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
